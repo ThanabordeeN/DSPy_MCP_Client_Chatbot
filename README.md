@@ -91,8 +91,7 @@ MCP_assistant/
 ├── README.md                 # This documentation
 ├── app.py                    # Streamlit frontend
 ├── backend/
-│   ├── main.py               # FastAPI backend server
-│   └── servers_config.json   # MCP server configuration
+│   └── main.py               # FastAPI backend server
 ├── data/
 │   └── chat_sessions.json    # Persisted chat history
 └── requirements.txt          # Project dependencies
