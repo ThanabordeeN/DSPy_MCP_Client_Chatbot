@@ -4,7 +4,7 @@ A conversational AI assistant built with DSPy and Streamlit that helps users int
 
 ## Project Overview
 
-![MCP Assistant](https://raw.githubusercontent.com/ThanabordeeN/DSPy_MCP_Airbnb_Chat/main/image/app.png)
+![MCP Assistant](https://raw.githubusercontent.com/ThanabordeeN/DSPy_MCP_Client_Chatbot/main/image/app.png)
 
 This project implements an AI-powered assistant that can answer questions, search for information, and provide insights across multiple domains through natural language conversations. The system's capabilities depend on the MCP tools configured - from querying Airbnb listings to performing web searches, accessing databases, and more. The system uses:
 
